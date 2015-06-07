@@ -1,0 +1,13 @@
+bin/
+*.class
+cmdtesters
+cmdtesters~
+cpToTesters
+cpToTesters~
+multic
+pingHosts
+pingHosts~
+results/
+runs
+testers
+testers~

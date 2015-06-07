@@ -1,6 +1,0 @@
-for slave in `cat hosts|sed  "s/#.*$//;/^$/d"`;do
- echo -n ${slave}:;
- if [ `ssh $slave` ];then
- 	echo "alive";
- fi;
-done;

@@ -1,3 +1,0 @@
-for entry in `cat testers|sed  "s/#.*$//;/^$/d;/10.6.9.18/d"`; do
-	bash job.sh $entry $@ &
-done

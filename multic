@@ -1,3 +1,0 @@
-for entry in `cat hosts`;do
- scp -r $1 $entry:$2;
-done;
