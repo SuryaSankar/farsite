@@ -1,0 +1,774 @@
+10.6.15.45: 10.6.9.18:10000
+10.6.15.45: 10.6.15.72:10000
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45
+10.6.15.45: TIME: 524
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45/dir1
+10.6.15.45: TIME: 507
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45/dir1/dir2
+10.6.15.45: TIME: 507
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45/dir1/dir2/dir3
+10.6.15.45: TIME: 507
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45/dir1/dir2/dir3/dir4
+10.6.15.45: TIME: 511
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45/dir1/dir2/dir3/dir5
+10.6.15.45: TIME: 507
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45/dir1/dir2/dir3/dir6
+10.6.15.45: TIME: 507
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root2/10.6.15.45
+10.6.15.45: TIME: 503
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root2/10.6.15.45/dir1
+10.6.15.45: TIME: 503
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root2/10.6.15.45/dir1/dir2
+10.6.15.45: TIME: 503
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root2/10.6.15.45/dir1/dir2/dir3
+10.6.15.45: TIME: 503
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root2/10.6.15.45/dir1/dir2/dir3/dir4
+10.6.15.45: TIME: 507
+10.6.15.45: created
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45
+10.6.15.45: TIME: 507
+10.6.15.45: dir1 
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45/dir1
+10.6.15.45: TIME: 507
+10.6.15.45: dir2 
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45/dir1/dir2
+10.6.15.45: TIME: 503
+10.6.15.45: dir3 
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45/dir1/dir2/dir3
+10.6.15.45: TIME: 503
+10.6.15.45: dir6 dir5 dir4 
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45/dir1/dir2/dir3/dir4
+10.6.15.45: TIME: 507
+10.6.15.45: 
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45/dir1/dir2/dir3/dir5
+10.6.15.45: TIME: 507
+10.6.15.45: 
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45/dir1/dir2/dir3/dir6
+10.6.15.45: TIME: 503
+10.6.15.45: 
+10.6.15.45: OPERATION: ls farsite/root2/10.6.15.45
+10.6.15.45: TIME: 504
+10.6.15.45: dir1 
+10.6.15.45: OPERATION: ls farsite/root2/10.6.15.45/dir1
+10.6.15.45: TIME: 503
+10.6.15.45: dir2 
+10.6.15.45: OPERATION: ls farsite/root2/10.6.15.45/dir1/dir2
+10.6.15.45: TIME: 507
+10.6.15.45: dir3 
+10.6.15.45: OPERATION: ls farsite/root2/10.6.15.45/dir1/dir2/dir3
+10.6.15.45: TIME: 503
+10.6.15.45: dir4 
+10.6.15.45: OPERATION: ls farsite/root2/10.6.15.45/dir1/dir2/dir3/dir4
+10.6.15.45: TIME: 503
+10.6.15.45: 
+10.6.15.45: OPERATION: null
+10.6.15.45: Test Over
+
+10.6.15.46: 10.6.9.18:10000
+10.6.15.46: 10.6.15.72:10000
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46
+10.6.15.46: TIME: 521
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46/dir1
+10.6.15.46: TIME: 507
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46/dir1/dir2
+10.6.15.46: TIME: 507
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46/dir1/dir2/dir3
+10.6.15.46: TIME: 508
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46/dir1/dir2/dir3/dir4
+10.6.15.46: TIME: 512
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46/dir1/dir2/dir3/dir5
+10.6.15.46: TIME: 508
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46/dir1/dir2/dir3/dir6
+10.6.15.46: TIME: 508
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root2/10.6.15.46
+10.6.15.46: TIME: 504
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root2/10.6.15.46/dir1
+10.6.15.46: TIME: 504
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root2/10.6.15.46/dir1/dir2
+10.6.15.46: TIME: 504
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root2/10.6.15.46/dir1/dir2/dir3
+10.6.15.46: TIME: 504
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root2/10.6.15.46/dir1/dir2/dir3/dir4
+10.6.15.46: TIME: 504
+10.6.15.46: created
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46
+10.6.15.46: TIME: 508
+10.6.15.46: dir1 
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46/dir1
+10.6.15.46: TIME: 508
+10.6.15.46: dir2 
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46/dir1/dir2
+10.6.15.46: TIME: 508
+10.6.15.46: dir3 
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46/dir1/dir2/dir3
+10.6.15.46: TIME: 508
+10.6.15.46: dir6 dir5 dir4 
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46/dir1/dir2/dir3/dir4
+10.6.15.46: TIME: 504
+10.6.15.46: 
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46/dir1/dir2/dir3/dir5
+10.6.15.46: TIME: 504
+10.6.15.46: 
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46/dir1/dir2/dir3/dir6
+10.6.15.46: TIME: 508
+10.6.15.46: 
+10.6.15.46: OPERATION: ls farsite/root2/10.6.15.46
+10.6.15.46: TIME: 504
+10.6.15.46: dir1 
+10.6.15.46: OPERATION: ls farsite/root2/10.6.15.46/dir1
+10.6.15.46: TIME: 504
+10.6.15.46: dir2 
+10.6.15.46: OPERATION: ls farsite/root2/10.6.15.46/dir1/dir2
+10.6.15.46: TIME: 508
+10.6.15.46: dir3 
+10.6.15.46: OPERATION: ls farsite/root2/10.6.15.46/dir1/dir2/dir3
+10.6.15.46: TIME: 504
+10.6.15.46: dir4 
+10.6.15.46: OPERATION: ls farsite/root2/10.6.15.46/dir1/dir2/dir3/dir4
+10.6.15.46: TIME: 504
+10.6.15.46: 
+10.6.15.46: OPERATION: null
+10.6.15.46: Test Over
+
+10.6.15.57: 10.6.9.18:10000
+10.6.15.57: 10.6.15.72:10000
+10.6.15.57: OPERATION: mkdir farsite/root1/10.6.15.57
+10.6.15.57: TIME: 533
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root1/10.6.15.57/dir1
+10.6.15.57: TIME: 507
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root1/10.6.15.57/dir1/dir2
+10.6.15.57: TIME: 507
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root1/10.6.15.57/dir1/dir2/dir3
+10.6.15.57: TIME: 1012
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root1/10.6.15.57/dir1/dir2/dir3/dir4
+10.6.15.57: TIME: 511
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root1/10.6.15.57/dir1/dir2/dir3/dir5
+10.6.15.57: TIME: 508
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root1/10.6.15.57/dir1/dir2/dir3/dir6
+10.6.15.57: TIME: 508
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root2/10.6.15.57
+10.6.15.57: TIME: 504
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root2/10.6.15.57/dir1
+10.6.15.57: TIME: 504
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root2/10.6.15.57/dir1/dir2
+10.6.15.57: TIME: 504
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root2/10.6.15.57/dir1/dir2/dir3
+10.6.15.57: TIME: 504
+10.6.15.57: created
+10.6.15.57: OPERATION: mkdir farsite/root2/10.6.15.57/dir1/dir2/dir3/dir4
+10.6.15.57: TIME: 504
+10.6.15.57: created
+10.6.15.57: OPERATION: ls farsite/root1/10.6.15.57
+10.6.15.57: TIME: 508
+10.6.15.57: dir1 
+10.6.15.57: OPERATION: ls farsite/root1/10.6.15.57/dir1
+10.6.15.57: TIME: 508
+10.6.15.57: dir2 
+10.6.15.57: OPERATION: ls farsite/root1/10.6.15.57/dir1/dir2
+10.6.15.57: TIME: 508
+10.6.15.57: dir3 
+10.6.15.57: OPERATION: ls farsite/root1/10.6.15.57/dir1/dir2/dir3
+10.6.15.57: TIME: 508
+10.6.15.57: dir6 dir5 dir4 
+10.6.15.57: OPERATION: ls farsite/root1/10.6.15.57/dir1/dir2/dir3/dir4
+10.6.15.57: TIME: 508
+10.6.15.57: 
+10.6.15.57: OPERATION: ls farsite/root1/10.6.15.57/dir1/dir2/dir3/dir5
+10.6.15.57: TIME: 508
+10.6.15.57: 
+10.6.15.57: OPERATION: ls farsite/root1/10.6.15.57/dir1/dir2/dir3/dir6
+10.6.15.57: TIME: 508
+10.6.15.57: 
+10.6.15.57: OPERATION: ls farsite/root2/10.6.15.57
+10.6.15.57: TIME: 504
+10.6.15.57: dir1 
+10.6.15.57: OPERATION: ls farsite/root2/10.6.15.57/dir1
+10.6.15.57: TIME: 504
+10.6.15.57: dir2 
+10.6.15.57: OPERATION: ls farsite/root2/10.6.15.57/dir1/dir2
+10.6.15.57: TIME: 508
+10.6.15.57: dir3 
+10.6.15.57: OPERATION: ls farsite/root2/10.6.15.57/dir1/dir2/dir3
+10.6.15.57: TIME: 504
+10.6.15.57: dir4 
+10.6.15.57: OPERATION: ls farsite/root2/10.6.15.57/dir1/dir2/dir3/dir4
+10.6.15.57: TIME: 504
+10.6.15.57: 
+10.6.15.57: OPERATION: null
+10.6.15.57: Test Over
+
+10.6.15.47: 10.6.9.18:10000
+10.6.15.47: 10.6.15.72:10000
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47
+10.6.15.47: TIME: 1026
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47/dir1
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47/dir1/dir2
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47/dir1/dir2/dir3
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47/dir1/dir2/dir3/dir4
+10.6.15.47: TIME: 1012
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47/dir1/dir2/dir3/dir5
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47/dir1/dir2/dir3/dir6
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root2/10.6.15.47
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root2/10.6.15.47/dir1
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root2/10.6.15.47/dir1/dir2
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root2/10.6.15.47/dir1/dir2/dir3
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root2/10.6.15.47/dir1/dir2/dir3/dir4
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47
+10.6.15.47: TIME: 504
+10.6.15.47: dir1 
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47/dir1
+10.6.15.47: TIME: 504
+10.6.15.47: dir2 
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47/dir1/dir2
+10.6.15.47: TIME: 504
+10.6.15.47: dir3 
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47/dir1/dir2/dir3
+10.6.15.47: TIME: 504
+10.6.15.47: dir6 dir5 dir4 
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47/dir1/dir2/dir3/dir4
+10.6.15.47: TIME: 504
+10.6.15.47: 
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47/dir1/dir2/dir3/dir5
+10.6.15.47: TIME: 504
+10.6.15.47: 
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47/dir1/dir2/dir3/dir6
+10.6.15.47: TIME: 504
+10.6.15.47: 
+10.6.15.47: OPERATION: ls farsite/root2/10.6.15.47
+10.6.15.47: TIME: 504
+10.6.15.47: dir1 
+10.6.15.47: OPERATION: ls farsite/root2/10.6.15.47/dir1
+10.6.15.47: TIME: 504
+10.6.15.47: dir2 
+10.6.15.47: OPERATION: ls farsite/root2/10.6.15.47/dir1/dir2
+10.6.15.47: TIME: 508
+10.6.15.47: dir3 
+10.6.15.47: OPERATION: ls farsite/root2/10.6.15.47/dir1/dir2/dir3
+10.6.15.47: TIME: 504
+10.6.15.47: dir4 
+10.6.15.47: OPERATION: ls farsite/root2/10.6.15.47/dir1/dir2/dir3/dir4
+10.6.15.47: TIME: 504
+10.6.15.47: 
+10.6.15.47: OPERATION: null
+10.6.15.47: Test Over
+
+10.6.15.44: /usr/bin/X11/xauth:  error in locking authority file /home/pkoven/.Xauthority
+10.6.15.44: 10.6.9.18:10000
+10.6.15.44: 10.6.15.72:10000
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44
+10.6.15.44: TIME: 519
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44/dir1
+10.6.15.44: TIME: 504
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44/dir1/dir2
+10.6.15.44: TIME: 1008
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44/dir1/dir2/dir3
+10.6.15.44: TIME: 504
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44/dir1/dir2/dir3/dir4
+10.6.15.44: TIME: 508
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44/dir1/dir2/dir3/dir5
+10.6.15.44: TIME: 504
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44/dir1/dir2/dir3/dir6
+10.6.15.44: TIME: 504
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root2/10.6.15.44
+10.6.15.44: TIME: 504
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root2/10.6.15.44/dir1
+10.6.15.44: TIME: 504
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root2/10.6.15.44/dir1/dir2
+10.6.15.44: TIME: 504
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root2/10.6.15.44/dir1/dir2/dir3
+10.6.15.44: TIME: 503
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root2/10.6.15.44/dir1/dir2/dir3/dir4
+10.6.15.44: TIME: 503
+10.6.15.44: created
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44
+10.6.15.44: TIME: 503
+10.6.15.44: dir1 
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44/dir1
+10.6.15.44: TIME: 503
+10.6.15.44: dir2 
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44/dir1/dir2
+10.6.15.44: TIME: 503
+10.6.15.44: dir3 
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44/dir1/dir2/dir3
+10.6.15.44: TIME: 507
+10.6.15.44: dir6 dir5 dir4 
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44/dir1/dir2/dir3/dir4
+10.6.15.44: TIME: 507
+10.6.15.44: 
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44/dir1/dir2/dir3/dir5
+10.6.15.44: TIME: 1012
+10.6.15.44: 
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44/dir1/dir2/dir3/dir6
+10.6.15.44: TIME: 508
+10.6.15.44: 
+10.6.15.44: OPERATION: ls farsite/root2/10.6.15.44
+10.6.15.44: TIME: 508
+10.6.15.44: dir1 
+10.6.15.44: OPERATION: ls farsite/root2/10.6.15.44/dir1
+10.6.15.44: TIME: 508
+10.6.15.44: dir2 
+10.6.15.44: OPERATION: ls farsite/root2/10.6.15.44/dir1/dir2
+10.6.15.44: TIME: 508
+10.6.15.44: dir3 
+10.6.15.44: OPERATION: ls farsite/root2/10.6.15.44/dir1/dir2/dir3
+10.6.15.44: TIME: 508
+10.6.15.44: dir4 
+10.6.15.44: OPERATION: ls farsite/root2/10.6.15.44/dir1/dir2/dir3/dir4
+10.6.15.44: TIME: 508
+10.6.15.44: 
+10.6.15.44: OPERATION: null
+10.6.15.44: Test Over
+
+10.6.15.39: 10.6.9.18:10000
+10.6.15.39: 10.6.15.72:10000
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39
+10.6.15.39: TIME: 522
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39/dir1
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39/dir1/dir2
+10.6.15.39: TIME: 1012
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39/dir1/dir2/dir3
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39/dir1/dir2/dir3/dir4
+10.6.15.39: TIME: 1012
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39/dir1/dir2/dir3/dir5
+10.6.15.39: TIME: 1012
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39/dir1/dir2/dir3/dir6
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root2/10.6.15.39
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root2/10.6.15.39/dir1
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root2/10.6.15.39/dir1/dir2
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root2/10.6.15.39/dir1/dir2/dir3
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root2/10.6.15.39/dir1/dir2/dir3/dir4
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39
+10.6.15.39: TIME: 508
+10.6.15.39: dir1 
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39/dir1
+10.6.15.39: TIME: 508
+10.6.15.39: dir2 
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39/dir1/dir2
+10.6.15.39: TIME: 508
+10.6.15.39: dir3 
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39/dir1/dir2/dir3
+10.6.15.39: TIME: 508
+10.6.15.39: dir6 dir5 dir4 
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39/dir1/dir2/dir3/dir4
+10.6.15.39: TIME: 508
+10.6.15.39: 
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39/dir1/dir2/dir3/dir5
+10.6.15.39: TIME: 508
+10.6.15.39: 
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39/dir1/dir2/dir3/dir6
+10.6.15.39: TIME: 508
+10.6.15.39: 
+10.6.15.39: OPERATION: ls farsite/root2/10.6.15.39
+10.6.15.39: TIME: 508
+10.6.15.39: dir1 
+10.6.15.39: OPERATION: ls farsite/root2/10.6.15.39/dir1
+10.6.15.39: TIME: 508
+10.6.15.39: dir2 
+10.6.15.39: OPERATION: ls farsite/root2/10.6.15.39/dir1/dir2
+10.6.15.39: TIME: 508
+10.6.15.39: dir3 
+10.6.15.39: OPERATION: ls farsite/root2/10.6.15.39/dir1/dir2/dir3
+10.6.15.39: TIME: 508
+10.6.15.39: dir4 
+10.6.15.39: OPERATION: ls farsite/root2/10.6.15.39/dir1/dir2/dir3/dir4
+10.6.15.39: TIME: 508
+10.6.15.39: 
+10.6.15.39: OPERATION: null
+10.6.15.39: Test Over
+
+10.6.15.54: 10.6.9.18:10000
+10.6.15.54: 10.6.15.72:10000
+10.6.15.54: OPERATION: mkdir farsite/root1/10.6.15.54
+10.6.15.54: TIME: 743
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root1/10.6.15.54/dir1
+10.6.15.54: TIME: 507
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root1/10.6.15.54/dir1/dir2
+10.6.15.54: TIME: 1007
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root1/10.6.15.54/dir1/dir2/dir3
+10.6.15.54: TIME: 503
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root1/10.6.15.54/dir1/dir2/dir3/dir4
+10.6.15.54: TIME: 511
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root1/10.6.15.54/dir1/dir2/dir3/dir5
+10.6.15.54: TIME: 503
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root1/10.6.15.54/dir1/dir2/dir3/dir6
+10.6.15.54: TIME: 1007
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root2/10.6.15.54
+10.6.15.54: TIME: 503
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root2/10.6.15.54/dir1
+10.6.15.54: TIME: 503
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root2/10.6.15.54/dir1/dir2
+10.6.15.54: TIME: 503
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root2/10.6.15.54/dir1/dir2/dir3
+10.6.15.54: TIME: 503
+10.6.15.54: created
+10.6.15.54: OPERATION: mkdir farsite/root2/10.6.15.54/dir1/dir2/dir3/dir4
+10.6.15.54: TIME: 503
+10.6.15.54: created
+10.6.15.54: OPERATION: ls farsite/root1/10.6.15.54
+10.6.15.54: TIME: 503
+10.6.15.54: dir1 
+10.6.15.54: OPERATION: ls farsite/root1/10.6.15.54/dir1
+10.6.15.54: TIME: 503
+10.6.15.54: dir2 
+10.6.15.54: OPERATION: ls farsite/root1/10.6.15.54/dir1/dir2
+10.6.15.54: TIME: 503
+10.6.15.54: dir3 
+10.6.15.54: OPERATION: ls farsite/root1/10.6.15.54/dir1/dir2/dir3
+10.6.15.54: TIME: 1007
+10.6.15.54: dir6 dir5 dir4 
+10.6.15.54: OPERATION: ls farsite/root1/10.6.15.54/dir1/dir2/dir3/dir4
+10.6.15.54: TIME: 1007
+10.6.15.54: 
+10.6.15.54: OPERATION: ls farsite/root1/10.6.15.54/dir1/dir2/dir3/dir5
+10.6.15.54: TIME: 503
+10.6.15.54: 
+10.6.15.54: OPERATION: ls farsite/root1/10.6.15.54/dir1/dir2/dir3/dir6
+10.6.15.54: TIME: 503
+10.6.15.54: 
+10.6.15.54: OPERATION: ls farsite/root2/10.6.15.54
+10.6.15.54: TIME: 503
+10.6.15.54: dir1 
+10.6.15.54: OPERATION: ls farsite/root2/10.6.15.54/dir1
+10.6.15.54: TIME: 503
+10.6.15.54: dir2 
+10.6.15.54: OPERATION: ls farsite/root2/10.6.15.54/dir1/dir2
+10.6.15.54: TIME: 507
+10.6.15.54: dir3 
+10.6.15.54: OPERATION: ls farsite/root2/10.6.15.54/dir1/dir2/dir3
+10.6.15.54: TIME: 503
+10.6.15.54: dir4 
+10.6.15.54: OPERATION: ls farsite/root2/10.6.15.54/dir1/dir2/dir3/dir4
+10.6.15.54: TIME: 503
+10.6.15.54: 
+10.6.15.54: OPERATION: null
+10.6.15.54: Test Over
+
+10.6.15.51: 10.6.9.18:10000
+10.6.15.51: 10.6.15.72:10000
+10.6.15.51: OPERATION: mkdir farsite/root1/10.6.15.51
+10.6.15.51: TIME: 532
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root1/10.6.15.51/dir1
+10.6.15.51: TIME: 507
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root1/10.6.15.51/dir1/dir2
+10.6.15.51: TIME: 508
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root1/10.6.15.51/dir1/dir2/dir3
+10.6.15.51: TIME: 504
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root1/10.6.15.51/dir1/dir2/dir3/dir4
+10.6.15.51: TIME: 1016
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root1/10.6.15.51/dir1/dir2/dir3/dir5
+10.6.15.51: TIME: 1008
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root1/10.6.15.51/dir1/dir2/dir3/dir6
+10.6.15.51: TIME: 508
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root2/10.6.15.51
+10.6.15.51: TIME: 504
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root2/10.6.15.51/dir1
+10.6.15.51: TIME: 504
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root2/10.6.15.51/dir1/dir2
+10.6.15.51: TIME: 504
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root2/10.6.15.51/dir1/dir2/dir3
+10.6.15.51: TIME: 504
+10.6.15.51: created
+10.6.15.51: OPERATION: mkdir farsite/root2/10.6.15.51/dir1/dir2/dir3/dir4
+10.6.15.51: TIME: 508
+10.6.15.51: created
+10.6.15.51: OPERATION: ls farsite/root1/10.6.15.51
+10.6.15.51: TIME: 504
+10.6.15.51: dir1 
+10.6.15.51: OPERATION: ls farsite/root1/10.6.15.51/dir1
+10.6.15.51: TIME: 504
+10.6.15.51: dir2 
+10.6.15.51: OPERATION: ls farsite/root1/10.6.15.51/dir1/dir2
+10.6.15.51: TIME: 1008
+10.6.15.51: dir3 
+10.6.15.51: OPERATION: ls farsite/root1/10.6.15.51/dir1/dir2/dir3
+10.6.15.51: TIME: 504
+10.6.15.51: dir6 dir5 dir4 
+10.6.15.51: OPERATION: ls farsite/root1/10.6.15.51/dir1/dir2/dir3/dir4
+10.6.15.51: TIME: 1008
+10.6.15.51: 
+10.6.15.51: OPERATION: ls farsite/root1/10.6.15.51/dir1/dir2/dir3/dir5
+10.6.15.51: TIME: 504
+10.6.15.51: 
+10.6.15.51: OPERATION: ls farsite/root1/10.6.15.51/dir1/dir2/dir3/dir6
+10.6.15.51: TIME: 504
+10.6.15.51: 
+10.6.15.51: OPERATION: ls farsite/root2/10.6.15.51
+10.6.15.51: TIME: 504
+10.6.15.51: dir1 
+10.6.15.51: OPERATION: ls farsite/root2/10.6.15.51/dir1
+10.6.15.51: TIME: 503
+10.6.15.51: dir2 
+10.6.15.51: OPERATION: ls farsite/root2/10.6.15.51/dir1/dir2
+10.6.15.51: TIME: 507
+10.6.15.51: dir3 
+10.6.15.51: OPERATION: ls farsite/root2/10.6.15.51/dir1/dir2/dir3
+10.6.15.51: TIME: 503
+10.6.15.51: dir4 
+10.6.15.51: OPERATION: ls farsite/root2/10.6.15.51/dir1/dir2/dir3/dir4
+10.6.15.51: TIME: 1007
+10.6.15.51: 
+10.6.15.51: OPERATION: null
+10.6.15.51: Test Over
+
+10.6.15.59: /usr/bin/X11/xauth:  error in locking authority file /home/pkoven/.Xauthority
+10.6.15.59: 10.6.9.18:10000
+10.6.15.59: 10.6.15.72:10000
+10.6.15.59: OPERATION: mkdir farsite/root1/10.6.15.59
+10.6.15.59: TIME: 531
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root1/10.6.15.59/dir1
+10.6.15.59: TIME: 503
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root1/10.6.15.59/dir1/dir2
+10.6.15.59: TIME: 504
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root1/10.6.15.59/dir1/dir2/dir3
+10.6.15.59: TIME: 504
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root1/10.6.15.59/dir1/dir2/dir3/dir4
+10.6.15.59: TIME: 508
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root1/10.6.15.59/dir1/dir2/dir3/dir5
+10.6.15.59: TIME: 1008
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root1/10.6.15.59/dir1/dir2/dir3/dir6
+10.6.15.59: TIME: 1008
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root2/10.6.15.59
+10.6.15.59: TIME: 504
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root2/10.6.15.59/dir1
+10.6.15.59: TIME: 504
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root2/10.6.15.59/dir1/dir2
+10.6.15.59: TIME: 504
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root2/10.6.15.59/dir1/dir2/dir3
+10.6.15.59: TIME: 504
+10.6.15.59: created
+10.6.15.59: OPERATION: mkdir farsite/root2/10.6.15.59/dir1/dir2/dir3/dir4
+10.6.15.59: TIME: 508
+10.6.15.59: created
+10.6.15.59: OPERATION: ls farsite/root1/10.6.15.59
+10.6.15.59: TIME: 504
+10.6.15.59: dir1 
+10.6.15.59: OPERATION: ls farsite/root1/10.6.15.59/dir1
+10.6.15.59: TIME: 504
+10.6.15.59: dir2 
+10.6.15.59: OPERATION: ls farsite/root1/10.6.15.59/dir1/dir2
+10.6.15.59: TIME: 1008
+10.6.15.59: dir3 
+10.6.15.59: OPERATION: ls farsite/root1/10.6.15.59/dir1/dir2/dir3
+10.6.15.59: TIME: 504
+10.6.15.59: dir6 dir5 dir4 
+10.6.15.59: OPERATION: ls farsite/root1/10.6.15.59/dir1/dir2/dir3/dir4
+10.6.15.59: TIME: 1008
+10.6.15.59: 
+10.6.15.59: OPERATION: ls farsite/root1/10.6.15.59/dir1/dir2/dir3/dir5
+10.6.15.59: TIME: 504
+10.6.15.59: 
+10.6.15.59: OPERATION: ls farsite/root1/10.6.15.59/dir1/dir2/dir3/dir6
+10.6.15.59: TIME: 504
+10.6.15.59: 
+10.6.15.59: OPERATION: ls farsite/root2/10.6.15.59
+10.6.15.59: TIME: 504
+10.6.15.59: dir1 
+10.6.15.59: OPERATION: ls farsite/root2/10.6.15.59/dir1
+10.6.15.59: TIME: 504
+10.6.15.59: dir2 
+10.6.15.59: OPERATION: ls farsite/root2/10.6.15.59/dir1/dir2
+10.6.15.59: TIME: 508
+10.6.15.59: dir3 
+10.6.15.59: OPERATION: ls farsite/root2/10.6.15.59/dir1/dir2/dir3
+10.6.15.59: TIME: 504
+10.6.15.59: dir4 
+10.6.15.59: OPERATION: ls farsite/root2/10.6.15.59/dir1/dir2/dir3/dir4
+10.6.15.59: TIME: 1008
+10.6.15.59: 
+10.6.15.59: OPERATION: null
+10.6.15.59: Test Over
+
+10.6.15.53: Warning: No xauth data; using fake authentication data for X11 forwarding.
+10.6.15.53: /usr/bin/X11/xauth:  error in locking authority file /home/pkoven/.Xauthority
+10.6.15.53: 10.6.9.18:10000
+10.6.15.53: 10.6.15.72:10000
+10.6.15.53: OPERATION: mkdir farsite/root1/10.6.15.53
+10.6.15.53: TIME: 1035
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root1/10.6.15.53/dir1
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root1/10.6.15.53/dir1/dir2
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root1/10.6.15.53/dir1/dir2/dir3
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root1/10.6.15.53/dir1/dir2/dir3/dir4
+10.6.15.53: TIME: 1012
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root1/10.6.15.53/dir1/dir2/dir3/dir5
+10.6.15.53: TIME: 1008
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root1/10.6.15.53/dir1/dir2/dir3/dir6
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root2/10.6.15.53
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root2/10.6.15.53/dir1
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root2/10.6.15.53/dir1/dir2
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root2/10.6.15.53/dir1/dir2/dir3
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: mkdir farsite/root2/10.6.15.53/dir1/dir2/dir3/dir4
+10.6.15.53: TIME: 504
+10.6.15.53: created
+10.6.15.53: OPERATION: ls farsite/root1/10.6.15.53
+10.6.15.53: TIME: 504
+10.6.15.53: dir1 
+10.6.15.53: OPERATION: ls farsite/root1/10.6.15.53/dir1
+10.6.15.53: TIME: 504
+10.6.15.53: dir2 
+10.6.15.53: OPERATION: ls farsite/root1/10.6.15.53/dir1/dir2
+10.6.15.53: TIME: 1008
+10.6.15.53: dir3 
+10.6.15.53: OPERATION: ls farsite/root1/10.6.15.53/dir1/dir2/dir3
+10.6.15.53: TIME: 504
+10.6.15.53: dir6 dir5 dir4 
+10.6.15.53: OPERATION: ls farsite/root1/10.6.15.53/dir1/dir2/dir3/dir4
+10.6.15.53: TIME: 503
+10.6.15.53: 
+10.6.15.53: OPERATION: ls farsite/root1/10.6.15.53/dir1/dir2/dir3/dir5
+10.6.15.53: TIME: 1007
+10.6.15.53: 
+10.6.15.53: OPERATION: ls farsite/root1/10.6.15.53/dir1/dir2/dir3/dir6
+10.6.15.53: TIME: 503
+10.6.15.53: 
+10.6.15.53: OPERATION: ls farsite/root2/10.6.15.53
+10.6.15.53: TIME: 503
+10.6.15.53: dir1 
+10.6.15.53: OPERATION: ls farsite/root2/10.6.15.53/dir1
+10.6.15.53: TIME: 503
+10.6.15.53: dir2 
+10.6.15.53: OPERATION: ls farsite/root2/10.6.15.53/dir1/dir2
+10.6.15.53: TIME: 507
+10.6.15.53: dir3 
+10.6.15.53: OPERATION: ls farsite/root2/10.6.15.53/dir1/dir2/dir3
+10.6.15.53: TIME: 503
+10.6.15.53: dir4 
+10.6.15.53: OPERATION: ls farsite/root2/10.6.15.53/dir1/dir2/dir3/dir4
+10.6.15.53: TIME: 1007
+10.6.15.53: 
+10.6.15.53: OPERATION: null
+10.6.15.53: Test Over
+

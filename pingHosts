@@ -1,0 +1,4 @@
+for slave in `cat hosts|sed  "s/#.*$//;/^$/d"`;do
+ echo -n ${slave}:;
+ ssh $slave echo "alive";
+done;

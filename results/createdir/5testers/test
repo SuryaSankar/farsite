@@ -1,0 +1,10 @@
+mkdir farsite/root1/[]
+mkdir farsite/root1/[]/dir1
+mkdir farsite/root1/[]/dir1/dir2
+mkdir farsite/root2/[]
+mkdir farsite/root2/[]/dir1
+ls farsite/root1/[]
+ls farsite/root1/[]/dir1
+ls farsite/root1/[]/dir1/dir2
+ls farsite/root2/[]
+ls farsite/root2/[]/dir1

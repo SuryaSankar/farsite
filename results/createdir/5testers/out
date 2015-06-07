@@ -1,0 +1,178 @@
+10.6.15.39: /usr/bin/X11/xauth:  error in locking authority file /home/pkoven/.Xauthority
+10.6.15.39: 10.6.9.18:10000
+10.6.15.39: 10.6.15.72:10000
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39
+10.6.15.39: TIME: 529
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39/dir1
+10.6.15.39: TIME: 507
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root1/10.6.15.39/dir1/dir2
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root2/10.6.15.39
+10.6.15.39: TIME: 504
+10.6.15.39: created
+10.6.15.39: OPERATION: mkdir farsite/root2/10.6.15.39/dir1
+10.6.15.39: TIME: 508
+10.6.15.39: created
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39
+10.6.15.39: TIME: 508
+10.6.15.39: dir1 
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39/dir1
+10.6.15.39: TIME: 507
+10.6.15.39: dir2 
+10.6.15.39: OPERATION: ls farsite/root1/10.6.15.39/dir1/dir2
+10.6.15.39: TIME: 508
+10.6.15.39: 
+10.6.15.39: OPERATION: ls farsite/root2/10.6.15.39
+10.6.15.39: TIME: 503
+10.6.15.39: dir1 
+10.6.15.39: OPERATION: ls farsite/root2/10.6.15.39/dir1
+10.6.15.39: TIME: 503
+10.6.15.39: 
+10.6.15.39: OPERATION: null
+10.6.15.39: Test Over
+
+10.6.15.47: /usr/bin/X11/xauth:  error in locking authority file /home/pkoven/.Xauthority
+10.6.15.47: 10.6.9.18:10000
+10.6.15.47: 10.6.15.72:10000
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47
+10.6.15.47: TIME: 1033
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47/dir1
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root1/10.6.15.47/dir1/dir2
+10.6.15.47: TIME: 1008
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root2/10.6.15.47
+10.6.15.47: TIME: 504
+10.6.15.47: created
+10.6.15.47: OPERATION: mkdir farsite/root2/10.6.15.47/dir1
+10.6.15.47: TIME: 508
+10.6.15.47: created
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47
+10.6.15.47: TIME: 504
+10.6.15.47: dir1 
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47/dir1
+10.6.15.47: TIME: 504
+10.6.15.47: dir2 
+10.6.15.47: OPERATION: ls farsite/root1/10.6.15.47/dir1/dir2
+10.6.15.47: TIME: 504
+10.6.15.47: 
+10.6.15.47: OPERATION: ls farsite/root2/10.6.15.47
+10.6.15.47: TIME: 504
+10.6.15.47: dir1 
+10.6.15.47: OPERATION: ls farsite/root2/10.6.15.47/dir1
+10.6.15.47: TIME: 503
+10.6.15.47: 
+10.6.15.47: OPERATION: null
+10.6.15.47: Test Over
+
+10.6.15.45: 10.6.9.18:10000
+10.6.15.45: 10.6.15.72:10000
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45
+10.6.15.45: TIME: 526
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45/dir1
+10.6.15.45: TIME: 503
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root1/10.6.15.45/dir1/dir2
+10.6.15.45: TIME: 503
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root2/10.6.15.45
+10.6.15.45: TIME: 503
+10.6.15.45: created
+10.6.15.45: OPERATION: mkdir farsite/root2/10.6.15.45/dir1
+10.6.15.45: TIME: 507
+10.6.15.45: created
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45
+10.6.15.45: TIME: 1007
+10.6.15.45: dir1 
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45/dir1
+10.6.15.45: TIME: 1007
+10.6.15.45: dir2 
+10.6.15.45: OPERATION: ls farsite/root1/10.6.15.45/dir1/dir2
+10.6.15.45: TIME: 1007
+10.6.15.45: 
+10.6.15.45: OPERATION: ls farsite/root2/10.6.15.45
+10.6.15.45: TIME: 504
+10.6.15.45: dir1 
+10.6.15.45: OPERATION: ls farsite/root2/10.6.15.45/dir1
+10.6.15.45: TIME: 504
+10.6.15.45: 
+10.6.15.45: OPERATION: null
+10.6.15.45: Test Over
+
+10.6.15.46: /usr/bin/X11/xauth:  error in locking authority file /home/pkoven/.Xauthority
+10.6.15.46: 10.6.9.18:10000
+10.6.15.46: 10.6.15.72:10000
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46
+10.6.15.46: TIME: 525
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46/dir1
+10.6.15.46: TIME: 503
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root1/10.6.15.46/dir1/dir2
+10.6.15.46: TIME: 503
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root2/10.6.15.46
+10.6.15.46: TIME: 503
+10.6.15.46: created
+10.6.15.46: OPERATION: mkdir farsite/root2/10.6.15.46/dir1
+10.6.15.46: TIME: 1011
+10.6.15.46: created
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46
+10.6.15.46: TIME: 1007
+10.6.15.46: dir1 
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46/dir1
+10.6.15.46: TIME: 1007
+10.6.15.46: dir2 
+10.6.15.46: OPERATION: ls farsite/root1/10.6.15.46/dir1/dir2
+10.6.15.46: TIME: 1007
+10.6.15.46: 
+10.6.15.46: OPERATION: ls farsite/root2/10.6.15.46
+10.6.15.46: TIME: 504
+10.6.15.46: dir1 
+10.6.15.46: OPERATION: ls farsite/root2/10.6.15.46/dir1
+10.6.15.46: TIME: 504
+10.6.15.46: 
+10.6.15.46: OPERATION: null
+10.6.15.46: Test Over
+
+10.6.15.44: 10.6.9.18:10000
+10.6.15.44: 10.6.15.72:10000
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44
+10.6.15.44: TIME: 1031
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44/dir1
+10.6.15.44: TIME: 504
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root1/10.6.15.44/dir1/dir2
+10.6.15.44: TIME: 1007
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root2/10.6.15.44
+10.6.15.44: TIME: 503
+10.6.15.44: created
+10.6.15.44: OPERATION: mkdir farsite/root2/10.6.15.44/dir1
+10.6.15.44: TIME: 507
+10.6.15.44: created
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44
+10.6.15.44: TIME: 1007
+10.6.15.44: dir1 
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44/dir1
+10.6.15.44: TIME: 1007
+10.6.15.44: dir2 
+10.6.15.44: OPERATION: ls farsite/root1/10.6.15.44/dir1/dir2
+10.6.15.44: TIME: 1007
+10.6.15.44: 
+10.6.15.44: OPERATION: ls farsite/root2/10.6.15.44
+10.6.15.44: TIME: 504
+10.6.15.44: dir1 
+10.6.15.44: OPERATION: ls farsite/root2/10.6.15.44/dir1
+10.6.15.44: TIME: 504
+10.6.15.44: 
+10.6.15.44: OPERATION: null
+10.6.15.44: Test Over
+
