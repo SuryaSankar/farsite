@@ -1,5 +1,9 @@
-An implementation of Farsite DFS. Did as a part of my UG summer research project
-in IITM. 
+An implementation of Farsite DFS. Did as a part of my UG summer research project in IITM.. The code is 6 years old as of now. Probably a lot of the Java packages used are deprecated now. 
+
+There are two packages - dos.common and dos.farsite ( dos stands for distributed object systems )
+The dos.common package defines a standard library for creating a distributed file system. The dos.farsite package can be viewed as an example implementation using dos.common.
+
+The code was written when I had very minimal knowledge of software design. However I am still proud about having worked on a fairly hard problem at that age. 
 
 How To Run
 ===========
