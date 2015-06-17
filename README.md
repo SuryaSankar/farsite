@@ -3,7 +3,7 @@ An implementation of Farsite DFS. Did as a part of my UG summer research project
 There are two packages - dos.common and dos.farsite ( dos stands for distributed object systems )
 The dos.common package defines a standard library for creating a distributed file system. The dos.farsite package can be viewed as an example implementation using dos.common.
 
-The code was written when I had very minimal knowledge of software design. However I am still proud about having worked on a fairly hard problem at that age. 
+I am not proud of some sections of the code. I am proud of a few others. In all, it was my very first 'real' project and I am happy I did it.
 
 How To Run
 ===========
